@@ -1,6 +1,7 @@
-﻿using Entidade.Triangulo;
+﻿// See https://aka.ms/new-console-template for more information
+
+using Entidade.Triangulo;
 using System.Globalization;
-// See https://aka.ms/new-console-template for more information
 
 Triangulo x, y;
 
